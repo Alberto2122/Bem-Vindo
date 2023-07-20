@@ -6,7 +6,7 @@
 
 - 📧 Pode entrar em contato comigo pelo email: albertomagalhaes1945@gmail.com
  
-- 🖥️ Tenho habilidade em HTML,CSS,JAVASCRIPT,SQL,REACJ,FIGMA E PYTHON.
+- 🖥️ Tenho habilidade em HTML, CSS, JAVASCRIPT, SQL, REACJ, FIGMA E PYTHON.
 
 - 🏅 Amo esportes, emtão fui Campeão de volei 3 vezes. tenho meu próprio time que se chama "dinamu" e sou o comandante, gosto de liderar e tomar a frente em situações. seja no esporte, campo profissional ou no cotidiano.
 
@@ -27,15 +27,6 @@
   <a href="https:www.linkedin.com/in/alberto-silva-699870262" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlbertoSilva&show_icons=true&theme=tokyonight,"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlbertoSilva&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
 
 
