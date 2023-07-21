@@ -6,7 +6,7 @@
 
 - 📧 Pode entrar em contato comigo pelo email: albertomagalhaes1945@gmail.com
  
-- 🖥️ Tenho habilidade em HTML, CSS, JAVASCRIPT, SQL, REACJ, FIGMA E PYTHON.
+- 🖥️ Tenho habilidade em HTML, CSS, JAVASCRIPT, SQL, REACT, FIGMA E PYTHON.
 
 - 🏅 Amo esportes, emtão fui Campeão de volei 3 vezes. tenho meu próprio time que se chama "dinamu" e sou o comandante, gosto de liderar e tomar a frente em situações. seja no esporte, campo profissional ou no cotidiano.
 
